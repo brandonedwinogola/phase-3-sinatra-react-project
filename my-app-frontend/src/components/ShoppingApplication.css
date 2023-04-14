@@ -9,7 +9,7 @@ body {
 }
 
 h2 {
-    color: #006400;
+    color: #6dd9e0;
 }
 
 
@@ -21,11 +21,11 @@ code {
 button {
     margin-left: auto;
     padding: 0.5 rem;
-    background-color: #37784d;
+    background-color: #96f5f8;
     color: white;
     font-size: 1em;
     font-weight: bolder;
-    border: 2px solid #37784d; 
+    border: 2px solid #98e8eb; 
     cursor: pointer;
     float: center;
     width: 25%;
@@ -43,8 +43,8 @@ button {
 
 
 .shopping-item {
-    background: #ffffff99;
-    border: grey solid 0.1rem;
+    background: #33c6f399;
+    border: blue solid 0.1rem;
     border-bottom: none;
     padding: 0.25rem 1rem 0.25rem 0.25rem;
     display: flex;
@@ -53,7 +53,7 @@ button {
 .shopping-item-title {
     font-weight: bolder;
     font-size: 1.3em;
-    color: #37784d;
+    color: #62d1ec;
   }
   
 .shopping-cat {
@@ -72,23 +72,23 @@ button {
     margin-left: auto;
     padding: 0.5 rem;
     border-radius: 6px;
-    background-color: #37784d;
+    background-color: #62dff5;
     color: white;
     font-size: 1em;
     font-weight: bolder;
-    border: 2px solid #37784d; 
+    border: 2px solid #5bcfdf; 
     cursor: pointer;
     width: 5%;       
 }
     
 .delete-button:hover {
-    color:  #5a823c;
+    color:  #77dbdf;
     background-color: #ffffff99;
-    border: 2px solid #37784d; 
+    border: 2px solid #79d9e0; 
 }
 
 .add-item-button {
-    color:  #5a823c;
+    color:  #68d4e7;
 }
   
 select {
@@ -96,12 +96,12 @@ select {
     font-size: 17px;
     padding: 3px 5px;
     border-radius: 5px;
-    border:1px solid #5a823c; 
+    border:1px solid #55c6ca; 
     
 }
 
 input[type=text] {
-    border:1px solid #5a823c; 
+    border:1px solid #63d8d2; 
     border-radius: 5px;
     width: 85%;
     font-size: 17px;
@@ -112,11 +112,11 @@ input[type=submit] {
     margin-left: auto;
     padding: 0.5 rem;
     border-radius: 5px;
-    background-color: #37784d;
+    background-color: #8cd6db;
     color: white;
     font-size: 0.9em;
     font-weight: bolder;
-    border: 2px solid #37784d; 
+    border: 2px solid #7acfe9; 
     cursor: pointer;
     width: 25%; 
 }

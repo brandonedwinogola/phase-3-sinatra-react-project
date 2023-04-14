@@ -2,18 +2,18 @@ input[type=submit] {
     margin-left: auto;
     padding: 0.5 rem;
     border-radius: 5px;
-    background-color: #37784d;
+    background-color: #5ed7fc;
     color: white;
     font-size: 1em;
     font-weight: bolder;
-    border: 2px solid #37784d; 
+    border: 2px solid #4dc7ec; 
     cursor: pointer;
     width: 25%; 
 }
 
 input[type=submit]:hover {
-    color: #37784d;
-    background-color: #ffffff99;
+    color: #0beff7;
+    background-color: #bcfafa99;
 
 }
 
@@ -26,7 +26,7 @@ img {
 
 
 input[type=text] {
-    border:1px solid #5a823c; 
+    border:1px solid #07d1f5; 
     border-radius: 5px;
     width: 55%;
     font-size: 18px;
@@ -35,7 +35,7 @@ input[type=text] {
 }
 
 input[type=email] {
-    border:1px solid #5a823c; 
+    border:1px solid #0cd5f8; 
     border-radius: 5px;
     width: 55%;
     font-size: 18px;
@@ -44,7 +44,7 @@ input[type=email] {
 }
 
 input[type=password] {
-    border:1px solid #5a823c; 
+    border:1px solid #6ef0e5; 
     border-radius: 5px;
     width: 55%;
     font-size: 18px;
@@ -63,16 +63,16 @@ label {
     margin-left: auto;
     padding: 0.5 rem;
     border-radius: 5px;
-    background-color: #37784d;
+    background-color: #6cebda;
     color: white;
     font-size: 1em;
     font-weight: bolder;
-    border: 2px solid #37784d; 
+    border: 2px solid #74f5e4; 
     cursor: pointer;
     width: 25%; 
 }
 
 .logout-button:hover {
-    color: #37784d;
-    background-color: #ffffff99;
+    color: #6df5ee;
+    background-color: #7e757599;
 }
